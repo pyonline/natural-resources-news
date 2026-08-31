@@ -6,50 +6,113 @@
     <atom:link href="https://pyonline.github.io/natural-resources-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>自然资源部及各省自然资源主管部门门户网站公开新闻聚合（每日自动更新，已去重）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun 30 Aug 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Sun 30 Aug 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Mon 31 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
     <generator>natural-resources-news skill</generator>
     <item>
-      <title>《中国经济大讲堂》8月30日开讲：筑牢地质灾害防线，守护万家平安</title>
-      <link>https://www.mnr.gov.cn/dt/tpxw/zrzytp/202608/t20260829_2937305.html</link>
-      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/tpxw/zrzytp/202608/t20260829_2937305.html</guid>
+      <title>耕地保护和质量提升法2027年1月1日起施行</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202608/t20260831_2937332.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202608/t20260831_2937332.html</guid>
+      <pubDate>Fri 01 Jan 2027 00:00:00 +0800</pubDate>
+      <description>自然资源部</description>
+    </item>
+    <item>
+      <title>自然资源部、国家林业和草原局通报2026年...</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202608/t20260831_2937333.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202608/t20260831_2937333.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>自然资源部</description>
+    </item>
+    <item>
+      <title>晋豫共谋林业科技协同发展</title>
+      <link>https://zrzyt.shanxi.gov.cn/xw/chnl399/202608/t20260831_10210476.shtml</link>
+      <guid isPermaLink="true">https://zrzyt.shanxi.gov.cn/xw/chnl399/202608/t20260831_10210476.shtml</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>山西省自然资源厅</description>
+    </item>
+    <item>
+      <title>2026年测绘法宣传日暨国家版图意识宣传周河南主场活动成功举...</title>
+      <link>http://dnr.henan.gov.cn/2026/08-31/3408907.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/08-31/3408907.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>最高5000元！安阳出台自然资源违法举报奖励新规</title>
+      <link>http://dnr.henan.gov.cn/2026/08-31/3408910.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/08-31/3408910.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>周口市局赴黄泛区专题调研不动产登记历史遗留问题</title>
+      <link>http://dnr.henan.gov.cn/2026/08-31/3408908.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/08-31/3408908.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>246座基准站织就厘米级定位网 河南测绘赋能经济社会高质量发...</title>
+      <link>http://dnr.henan.gov.cn/2026/08-31/3408915.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/08-31/3408915.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>“实景三维河南”基本建成 河南以时空数据赋能千行百业</title>
+      <link>http://dnr.henan.gov.cn/2026/08-31/3408914.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/08-31/3408914.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>湖南省不动产登记中心2026年高层次人才公开招聘入围体检、考察人员名单公示</title>
+      <link>http://zrzyt.hunan.gov.cn/zrzyt/xxgk/tzgg/202608/t20260831_34053054.html</link>
+      <guid isPermaLink="true">http://zrzyt.hunan.gov.cn/zrzyt/xxgk/tzgg/202608/t20260831_34053054.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>湖南省自然资源厅</description>
+    </item>
+    <item>
+      <title>湖南省自然资源厅关于注销湖南鑫都项目管理有限公司等3家单位乙级测绘资质的公告</title>
+      <link>http://zrzyt.hunan.gov.cn/zrzyt/xxgk/tzgg/202608/t20260831_34053100.html</link>
+      <guid isPermaLink="true">http://zrzyt.hunan.gov.cn/zrzyt/xxgk/tzgg/202608/t20260831_34053100.html</guid>
+      <pubDate>Mon 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>湖南省自然资源厅</description>
+    </item>
+    <item>
+      <title>自然资源部持续推进西藏吉隆泥石流灾害抢...</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202608/t20260830_2937327.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202608/t20260830_2937327.html</guid>
       <pubDate>Sun 30 Aug 2026 00:00:00 +0800</pubDate>
       <description>自然资源部</description>
     </item>
     <item>
-      <title>自然资源部党组召开会议 传达学习贯彻中共...</title>
-      <link>https://www.mnr.gov.cn/dt/ywbb/202608/t20260829_2937291.html</link>
-      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202608/t20260829_2937291.html</guid>
-      <pubDate>Sat 29 Aug 2026 00:00:00 +0800</pubDate>
+      <title>中国地质调查局持续开展西藏日喀则市吉隆...</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202608/t20260830_2937325.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202608/t20260830_2937325.html</guid>
+      <pubDate>Sun 30 Aug 2026 00:00:00 +0800</pubDate>
       <description>自然资源部</description>
     </item>
     <item>
-      <title>习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电 李强向尼泊尔总...</title>
-      <link>https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202608/t20260829_4842433.html</link>
-      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202608/t20260829_4842433.html</guid>
-      <pubDate>Sat 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>北京市规划和自然资源委员会</description>
+      <title>巴南区不动产权证书/登记证明作废公告 20260830110LZWZF003号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202608/t20260830_16002373.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202608/t20260830_16002373.html</guid>
+      <pubDate>Sun 30 Aug 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
     </item>
     <item>
-      <title>自治区自然资源厅举办2026年测绘法宣传日暨国家版...</title>
-      <link>https://zrzy.nmg.gov.cn/xwdt/zxdt/202608/t20260829_2946482.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zxdt/202608/t20260829_2946482.html</guid>
-      <pubDate>Sat 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
+      <title>巴南区不动产权证书/登记证明作废公告 20260828110LZWZF002号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202608/t20260830_16002333.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202608/t20260830_16002333.html</guid>
+      <pubDate>Sun 30 Aug 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
     </item>
     <item>
-      <title>自然资源部党组召开会议 传达学习贯彻中共中央政治局会议精神 对西藏吉隆泥石流灾害抢险救援再部署</title>
-      <link>http://zrzyt.hunan.gov.cn/zrzyt/xxgk/gzdt/ywzz/202608/t20260829_34052794.html</link>
-      <guid isPermaLink="true">http://zrzyt.hunan.gov.cn/zrzyt/xxgk/gzdt/ywzz/202608/t20260829_34052794.html</guid>
-      <pubDate>Sat 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>湖南省自然资源厅</description>
-    </item>
-    <item>
-      <title>自治区自然资源厅召开全区汛期地质灾害防治...</title>
-      <link>https://zrzy.nmg.gov.cn/xwdt/zxdt/202608/t20260827_2945756.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zxdt/202608/t20260827_2945756.html</guid>
-      <pubDate>Thu 27 Aug 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
+      <title>巴南区不动产权证书/登记证明作废公告 20260830110LZWZF001号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202608/t20260830_16002286.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202608/t20260830_16002286.html</guid>
+      <pubDate>Sun 30 Aug 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
     </item>
   </channel>
 </rss>
