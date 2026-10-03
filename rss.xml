@@ -6,8 +6,29 @@
     <atom:link href="https://pyonline.github.io/natural-resources-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>自然资源部及各省自然资源主管部门门户网站公开新闻聚合（每日自动更新，已去重）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri 02 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Fri 02 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Sat 03 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Sat 03 Oct 2026 00:00:00 +0800</pubDate>
     <generator>natural-resources-news skill</generator>
+    <item>
+      <title>工业和信息化部将加大工业遗产资源保护利用力度</title>
+      <link>https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202610/t20261003_4889679.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202610/t20261003_4889679.html</guid>
+      <pubDate>Sat 03 Oct 2026 00:00:00 +0800</pubDate>
+      <description>北京市规划和自然资源委员会</description>
+    </item>
+    <item>
+      <title>国庆打卡平陆运河，你知道它背后的“地质...</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261002_2939532.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261002_2939532.html</guid>
+      <pubDate>Fri 02 Oct 2026 00:00:00 +0800</pubDate>
+      <description>自然资源部</description>
+    </item>
+    <item>
+      <title>自然资源部对重庆贵州启动地质灾害防御IV...</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261002_2939533.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261002_2939533.html</guid>
+      <pubDate>Fri 02 Oct 2026 00:00:00 +0800</pubDate>
+      <description>自然资源部</description>
+    </item>
   </channel>
 </rss>
