@@ -6,15 +6,50 @@
     <atom:link href="https://pyonline.github.io/natural-resources-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>自然资源部及各省自然资源主管部门门户网站公开新闻聚合（每日自动更新，已去重）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun 18 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Sun 18 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Mon 19 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
     <generator>natural-resources-news skill</generator>
     <item>
-      <title>自治区自然资源厅与气象局联合发布地质灾害风险预警</title>
-      <link>https://zrzy.nmg.gov.cn/xwdt/zxdt/202610/t20261017_2965893.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zxdt/202610/t20261017_2965893.html</guid>
-      <pubDate>Sat 17 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
+      <title>自然资源宣教工作座谈会暨全媒体传播体系...</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261019_2940226.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261019_2940226.html</guid>
+      <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
+      <description>自然资源部</description>
+    </item>
+    <item>
+      <title>吉林省桦甸市桦郊乡朝阳山金、钼矿勘查探矿权挂牌出让成交结果公示</title>
+      <link>https://zrzy.jl.gov.cn/zwgk/tzgg/202610/t20261019_9730759.html</link>
+      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tzgg/202610/t20261019_9730759.html</guid>
+      <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
+      <description>吉林省自然资源厅</description>
+    </item>
+    <item>
+      <title>项城市局：金秋护良田，筑牢耕地保护防线</title>
+      <link>http://dnr.henan.gov.cn/2026/10-19/3438095.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-19/3438095.html</guid>
+      <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>不动产权证书/登记证明作废公告编号：20261019101DXGZF001</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261019_16254320.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261019_16254320.html</guid>
+      <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>两江新区不动产权证书/登记证明遗失（灭失）声明20261019047WLDYS001号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261019_16254316.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261019_16254316.html</guid>
+      <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实</title>
+      <link>https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202610/t20261018_4907665.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202610/t20261018_4907665.html</guid>
+      <pubDate>Sun 18 Oct 2026 00:00:00 +0800</pubDate>
+      <description>北京市规划和自然资源委员会</description>
     </item>
   </channel>
 </rss>
