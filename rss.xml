@@ -6,386 +6,428 @@
     <atom:link href="https://pyonline.github.io/natural-resources-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>自然资源部及各省自然资源主管部门门户网站公开新闻聚合（每日自动更新，已去重）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed 21 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Thu 22 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
     <generator>natural-resources-news skill</generator>
     <item>
-      <title>国产卫星互联网通信“最后的盲区”打通</title>
-      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261021_2940824.html</link>
-      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261021_2940824.html</guid>
+      <title>第三届“习近平生态文明思想理论与实践”...</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261022_2940870.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261022_2940870.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>自然资源部</description>
+    </item>
+    <item>
+      <title>习近平总书记心中的伟大远征</title>
+      <link>https://zrzy.nmg.gov.cn/xwdt/ttxw/202610/t20261022_2967748.html</link>
+      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/ttxw/202610/t20261022_2967748.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>内蒙古自治区自然资源厅</description>
+    </item>
+    <item>
+      <title>内蒙古六方面发力打造“精细化司法”</title>
+      <link>https://zrzy.nmg.gov.cn/xwdt/zzqyw/202610/t20261022_2967751.html</link>
+      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zzqyw/202610/t20261022_2967751.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>内蒙古自治区自然资源厅</description>
+    </item>
+    <item>
+      <title>省自然资源厅召开厅党组（扩大）会议 传达学习习近平总书记近期重要讲话重要贺信精神 部署重点工作</title>
+      <link>http://dnr.henan.gov.cn/2026/10-22/3439391.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-22/3439391.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>南乐县：分层供地拓空间 立体开发提效能</title>
+      <link>http://dnr.henan.gov.cn/2026/10-22/3439393.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-22/3439393.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>鄢陵县：宅基地普法送到集市村头 政策讲进干部课堂</title>
+      <link>http://dnr.henan.gov.cn/2026/10-22/3439392.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-22/3439392.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
+    </item>
+    <item>
+      <title>湖北襄阳强化自然资源要素保障，支持百亿级磷化工产业跨越式发展——“中部磷都”向新向上</title>
+      <link>http://zrzyt.hubei.gov.cn/bmdt/sxdt/202610/t20261022_6037603.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/bmdt/sxdt/202610/t20261022_6037603.shtml</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅</description>
+    </item>
+    <item>
+      <title>关于公布第三批已失效文件目录的公告</title>
+      <link>https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261022_4165600.html</link>
+      <guid isPermaLink="true">https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261022_4165600.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>海南省自然资源和规划厅</description>
+    </item>
+    <item>
+      <title>首次登记（2026）两江新区字第tmn0543号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270382.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270382.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>两江新区不动产权证书/登记证明遗失（灭失）声明 编号：202610220470JSYS001</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270381.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270381.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>两江新区不动产权证书/登记证明遗失（灭失）声明20261022047WLDYS001号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270369.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270369.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>不动产权证书/登记证明作废公告编号：20261022101DXGZF001</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270356.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270356.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>巴南区不动产权证书/登记证明作废公告20261022110LZWZF004号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270352.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270352.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>巴南区不动产权证书/登记证明作废公告20261022110LZWZF003号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270344.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261022_16270344.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>江津区油溪镇六合村协合社建筑用灰岩矿采矿权拍卖出让公告 渝矿采出字〔2026〕（江津）2号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/dzkc/202610/t20261022_16270322.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/dzkc/202610/t20261022_16270322.html</guid>
+      <pubDate>Thu 22 Oct 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>国家海洋技术中心完成北冰洋考察漂流观测任务</title>
+      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261021_2940825.html</link>
+      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261021_2940825.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
       <description>自然资源部</description>
     </item>
     <item>
-      <title>“蛟龙探海逐梦深蓝”深海课堂开讲</title>
-      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261021_2940823.html</link>
-      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261021_2940823.html</guid>
+      <title>关于《北京印刷学院图书馆重建项目规划综合实施方案》... 日期： 2026-10-21 公示期：</title>
+      <link>https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/dx_ghlgg/202610/t20261021_4913473.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/dx_ghlgg/202610/t20261021_4913473.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>自然资源部</description>
+      <description>北京市规划和自然资源委员会</description>
     </item>
     <item>
-      <title>吉林省舒兰市新立屯地区金、钼矿勘查探矿权挂牌出让交易无效公告</title>
-      <link>https://zrzy.jl.gov.cn/zwgk/tzgg/202610/t20261021_9731864.html</link>
-      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tzgg/202610/t20261021_9731864.html</guid>
+      <title>北京市规划和自然资源委员会丰台分局关于岳各庄村棚户... 日期： 2026-10-21 公示期：</title>
+      <link>https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/ft_ghlgg/202610/t20261021_4913106.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/ft_ghlgg/202610/t20261021_4913106.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>北京市规划和自然资源委员会</description>
+    </item>
+    <item>
+      <title>· 阳泉市规划和自然资源局组织党员干部收... 10-21</title>
+      <link>https://zrzyt.shanxi.gov.cn/xw/chnl89/chnl367/202610/t20261021_10241055.shtml</link>
+      <guid isPermaLink="true">https://zrzyt.shanxi.gov.cn/xw/chnl89/chnl367/202610/t20261021_10241055.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>山西省自然资源厅</description>
+    </item>
+    <item>
+      <title>关于2026年度全省工程系列自然资源工...</title>
+      <link>https://zrzyt.shanxi.gov.cn/zwgk/tzgg/202610/t20261021_10240171.shtml</link>
+      <guid isPermaLink="true">https://zrzyt.shanxi.gov.cn/zwgk/tzgg/202610/t20261021_10240171.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>山西省自然资源厅</description>
+    </item>
+    <item>
+      <title>前三季度内蒙古外贸进出口总值同比增长32.8%...</title>
+      <link>https://zrzy.nmg.gov.cn/xwdt/zzqyw/202610/t20261021_2967171.html</link>
+      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zzqyw/202610/t20261021_2967171.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>内蒙古自治区自然资源厅</description>
+    </item>
+    <item>
+      <title>自治区自然资源厅召开党组（扩大）会议</title>
+      <link>https://zrzy.nmg.gov.cn/xwdt/zxdt/202610/t20261021_2967686.html</link>
+      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zxdt/202610/t20261021_2967686.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>内蒙古自治区自然资源厅</description>
+    </item>
+    <item>
+      <title>吉林省桦甸市半截沟区金多金属矿勘查探矿权挂牌出让成交结果公示</title>
+      <link>https://zrzy.jl.gov.cn/zwgk/tzgg/202610/t20261021_9731984.html</link>
+      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tzgg/202610/t20261021_9731984.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
       <description>吉林省自然资源厅</description>
     </item>
     <item>
-      <title>濮阳市局应邀到市委党校开展耕地保护专题辅导</title>
-      <link>http://dnr.henan.gov.cn/2026/10-21/3438961.html</link>
-      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3438961.html</guid>
+      <title>向“生态杀手”宣战！全民围剿加拿大一枝黄…</title>
+      <link>http://zrzy.jiangsu.gov.cn/xwzx/xwbb/2026/10/21181932783380.html</link>
+      <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/xwbb/2026/10/21181932783380.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>江苏省自然资源厅</description>
+    </item>
+    <item>
+      <title>2026版盘活存量土地和低效用地典型案例发布</title>
+      <link>http://zrzy.jiangsu.gov.cn/xwzx/sbyq/2026/10/21092455684804.html</link>
+      <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/sbyq/2026/10/21092455684804.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>江苏省自然资源厅</description>
+    </item>
+    <item>
+      <title>太仓市局定制国有资产补办证全链政策工具包</title>
+      <link>http://zrzy.jiangsu.gov.cn/xwzx/xxjl/2026/10/21110922798252.html</link>
+      <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/xxjl/2026/10/21110922798252.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>江苏省自然资源厅</description>
+    </item>
+    <item>
+      <title>连云港市局探索土地混合开发利用规划管理</title>
+      <link>http://zrzy.jiangsu.gov.cn/xwzx/xxjl/2026/10/21093248799929.html</link>
+      <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/xxjl/2026/10/21093248799929.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>江苏省自然资源厅</description>
+    </item>
+    <item>
+      <title>关于河南省地理信息院申请甲级测绘资质专业类别...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439212.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439212.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
       <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>​继承（受遗赠）不动产登记公告 编号：20261020101DXGJC003</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264604.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264604.html</guid>
+      <title>豫政土〔2026〕600号 河南省人民政府关...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439336.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439336.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
+      <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>​继承（受遗赠）不动产登记公告 编号：20261020101DXGJC002</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264599.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264599.html</guid>
+      <title>豫政土〔2026〕599号 河南省人民政府关...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439335.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439335.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
+      <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>不动产权证书/登记证明作废公告编号：20261021101DXGZF001</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264600.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264600.html</guid>
+      <title>豫政土〔2026〕598号 河南省人民政府关...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439334.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439334.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
+      <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>​继承（受遗赠）不动产登记公告 编号：20261020101DXGJC001</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264594.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264594.html</guid>
+      <title>豫政土〔2026〕597号 河南省人民政府关...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439333.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439333.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
+      <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>编号：（2026）两江新区字第tmn141号</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264583.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264583.html</guid>
+      <title>豫政土〔2026〕596号 河南省人民政府关...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439332.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439332.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
+      <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>编号：（2026）两江新区字第tmn140号</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264581.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202610/t20261021_16264581.html</guid>
+      <title>豫政土〔2026〕595号 河南省人民政府关...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439330.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439330.html</guid>
       <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
+      <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>自然资源部党组召开会议坚决拥护党中央对...</title>
-      <link>https://www.mnr.gov.cn/dt/ywbb/202610/t20261020_2940788.html</link>
-      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202610/t20261020_2940788.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>自然资源部</description>
+      <title>豫政土〔2026〕594号 河南省人民政府关...</title>
+      <link>http://dnr.henan.gov.cn/2026/10-21/3439329.html</link>
+      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-21/3439329.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>河南省自然资源厅</description>
     </item>
     <item>
-      <title>市规划自然资源委门头沟分局第四规划和自然资源管理所 深夜巡查守生态 联合...</title>
-      <link>https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/gzdt/mtg/202610/t20261020_4911553.html</link>
-      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/gzdt/mtg/202610/t20261020_4911553.html</guid>
+      <title>吉奥时空信息技术股份有限公司测绘资质证书延续申请主要信息公开表</title>
+      <link>http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037499.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037499.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅</description>
+    </item>
+    <item>
+      <title>湖北省自然资源厅关于将35宗探矿权列为重点监测对象的公告</title>
+      <link>http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037460.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037460.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅</description>
+    </item>
+    <item>
+      <title>湖北省自然资源厅关于拟公告注销11宗勘查许可证的公示</title>
+      <link>http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037442.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037442.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅</description>
+    </item>
+    <item>
+      <title>湖北省测绘资质审批拟批准结果公示2026030号</title>
+      <link>http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037411.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261021_6037411.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅</description>
+    </item>
+    <item>
+      <title>株洲：市局调研指导市民中心窗口</title>
+      <link>https://zrzyt.hunan.gov.cn/zrzyt/xxgk/gzdt/sxxx/202610/t20261021_34085361.html</link>
+      <guid isPermaLink="true">https://zrzyt.hunan.gov.cn/zrzyt/xxgk/gzdt/sxxx/202610/t20261021_34085361.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖南省自然资源厅</description>
+    </item>
+    <item>
+      <title>株洲：市局召开青年干部座谈会</title>
+      <link>https://zrzyt.hunan.gov.cn/zrzyt/xxgk/gzdt/sxxx/202610/t20261021_34085357.html</link>
+      <guid isPermaLink="true">https://zrzyt.hunan.gov.cn/zrzyt/xxgk/gzdt/sxxx/202610/t20261021_34085357.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>湖南省自然资源厅</description>
+    </item>
+    <item>
+      <title>海南省自然资源和规划厅 关于拟将三亚市崖州区红岩队—抱古村矿区建筑用石料矿等4个矿山...</title>
+      <link>https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165088.html</link>
+      <guid isPermaLink="true">https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165088.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>海南省自然资源和规划厅</description>
+    </item>
+    <item>
+      <title>文昌市自然资源和规划局集体经营性建设用地使用权挂牌出...</title>
+      <link>https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165527.html</link>
+      <guid isPermaLink="true">https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165527.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>海南省自然资源和规划厅</description>
+    </item>
+    <item>
+      <title>万宁市自然资源和规划局 国有建设用地使用权挂牌出让成...</title>
+      <link>https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165525.html</link>
+      <guid isPermaLink="true">https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165525.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>海南省自然资源和规划厅</description>
+    </item>
+    <item>
+      <title>三亚市自然资源和规划局国有土地使用权招拍挂出让成交公示</title>
+      <link>https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165519.html</link>
+      <guid isPermaLink="true">https://lr.hainan.gov.cn/xxgk_317/0200/0202/202610/t20261021_4165519.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>海南省自然资源和规划厅</description>
+    </item>
+    <item>
+      <title>· 厅服务中心开展保密专题培训</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/21/a807d235b3b043fc8aade18d4a3d68b4.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/21/a807d235b3b043fc8aade18d4a3d68b4.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>· 省空间规划院组织召开2026年第九次土地用途调整方案暨永久基本农田补划方案专家评审会</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/21/1bd02b63c4a24a95bed05c25820cfaf0.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/21/1bd02b63c4a24a95bed05c25820cfaf0.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>· 成都市龙泉驿区局成功化解遗留项目验收难题获群众赞誉</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/c2ac4588c55a434e8c95d33ec522b89c.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/c2ac4588c55a434e8c95d33ec522b89c.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>· 阆中市“三抓两促”攻坚克难抓确权便民惠民办实事</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/ad3275c04fea423984792176a32dd1ec.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/ad3275c04fea423984792176a32dd1ec.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>· 自贡市自流井区局坚持三向发力绘好规划底图 强化用地保障提升审批质效</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/c2a8e77a59274e13b7f8a368588529e6.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/c2a8e77a59274e13b7f8a368588529e6.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>· 内江市局全面摸排溶洞底数 支撑专项调查整治</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/944aa783d1cf47d5b3ff60baf924dbe8.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/944aa783d1cf47d5b3ff60baf924dbe8.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>· 达州市调监中心汇编政策文件 助力调监工作提质增效</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/293373b8e23241ebb393602b6d8a0fae.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/21/293373b8e23241ebb393602b6d8a0fae.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>关于四川乐山地质工程勘察院集团有限公司等6家单位8个地质灾害防治单位资质审查结果的公示</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/21/013c2d569e004fedb840b58699cdc916.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/21/013c2d569e004fedb840b58699cdc916.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>2026年度嵌入式监督业务数据专项治理项目遴选公告</title>
+      <link>https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/21/e0cbbf5483ef4569a84ca08f562eabb4.shtml</link>
+      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/21/e0cbbf5483ef4569a84ca08f562eabb4.shtml</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>四川省自然资源厅</description>
+    </item>
+    <item>
+      <title>贵州省自然资源厅关于将贵州众一金彩黔矿业有限公司移除矿业权人勘查开采信息异常名录的公告 2026-10-21</title>
+      <link>https://zrzy.guizhou.gov.cn/wzgb/xwzx/tzgg/202610/t20261021_91014469.html</link>
+      <guid isPermaLink="true">https://zrzy.guizhou.gov.cn/wzgb/xwzx/tzgg/202610/t20261021_91014469.html</guid>
+      <pubDate>Wed 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>贵州省自然资源厅</description>
+    </item>
+    <item>
+      <title>关于东城区金鱼池二期西公建住宅项目工程设计方案公示... 日期： 2026-10-20 公示期：</title>
+      <link>https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/dc_ghlgg/202610/t20261020_4911744.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/dc_ghlgg/202610/t20261020_4911744.html</guid>
       <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
       <description>北京市规划和自然资源委员会</description>
     </item>
     <item>
-      <title>关于《北京城市副中心0402街区FZX-0402-6007地块规划综... 日期： 2026-10-20 公示期：</title>
-      <link>https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/tz_ghlgg/202610/t20261020_4911518.html</link>
-      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/tz_ghlgg/202610/t20261020_4911518.html</guid>
+      <title>关于北京大学人民医院医产协同创新港项目设计方案公示... 日期： 2026-10-20 公示期：</title>
+      <link>https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/tz_ghlgg/202610/t20261020_4911730.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/tz_ghlgg/202610/t20261020_4911730.html</guid>
       <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
       <description>北京市规划和自然资源委员会</description>
     </item>
     <item>
-      <title>习近平致信祝贺中央社会主义学院建院70周年强调 持续加强政治培训广泛凝...</title>
-      <link>https://zrzy.nmg.gov.cn/xwdt/ttxw/202610/t20261020_2966923.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/ttxw/202610/t20261020_2966923.html</guid>
+      <title>关于通州区芙蓉花园项目商业金融地块项目设计方案公示... 日期： 2026-10-20 公示期：</title>
+      <link>https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/tz_ghlgg/202610/t20261020_4911719.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/tz_ghlgg/202610/t20261020_4911719.html</guid>
       <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
+      <description>北京市规划和自然资源委员会</description>
     </item>
     <item>
-      <title>因地制宜深耕特色产业 凝心聚力促进农牧民增...</title>
-      <link>https://zrzy.nmg.gov.cn/xwdt/zzqyw/202610/t20261020_2966643.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zzqyw/202610/t20261020_2966643.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>《内蒙古自治区卓资县四号地铁矿采矿权上部及深部勘查方案》评审结果的公示</title>
-      <link>https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967032.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967032.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>《内蒙古自治区武川县泡牛坡金矿勘查方案》评审结果的公示</title>
-      <link>https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967031.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967031.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>《内蒙古自治区克什克腾旗岗子铜多金属矿勘查方案》评审结果...</title>
-      <link>https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967030.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967030.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>《内蒙古自治区赤峰市松山区胡彩沟金铜钼矿勘查方案》评审结...</title>
-      <link>https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967029.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967029.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>《内蒙古阿拉善盟额济纳旗黑鹰山南铁矿勘查方案》评审结果的公示</title>
-      <link>https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967027.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2967027.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>内蒙古自治区自然资源厅关于中晋(内蒙古)资源环境科技有限公...</title>
-      <link>https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2966876.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261020_2966876.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>吉林省自然资源厅关于临江市人民政府2026年第3批次农用地转用的批复</title>
-      <link>https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731365.html</link>
-      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731365.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>吉林省自然资源厅</description>
-    </item>
-    <item>
-      <title>吉林省自然资源厅关于安图县人民政府2026年第3批次农用地转用和土地征收的批复</title>
-      <link>https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731364.html</link>
-      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731364.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>吉林省自然资源厅</description>
-    </item>
-    <item>
-      <title>吉林省自然资源厅关于大唐长春二热“退城进郊”配套80万千瓦洮南风电项目建设用地的批复</title>
-      <link>https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731362.html</link>
-      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731362.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>吉林省自然资源厅</description>
-    </item>
-    <item>
-      <title>吉林省自然资源厅关于龙井市殡葬管理所公墓区建设项目用地的批复</title>
-      <link>https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731361.html</link>
-      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731361.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>吉林省自然资源厅</description>
-    </item>
-    <item>
-      <title>吉林省自然资源厅关于吉林油田压缩CO2储能科技示范工程项目用地的批复</title>
-      <link>https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731359.html</link>
-      <guid isPermaLink="true">https://zrzy.jl.gov.cn/zwgk/tdzygl/tdxzsh/spjg/202610/t20261020_9731359.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>吉林省自然资源厅</description>
-    </item>
-    <item>
-      <title>这场全国自然资源系统会议，江苏捧回多项荣誉</title>
-      <link>http://zrzy.jiangsu.gov.cn/xwzx/xwbb/2026/10/20095919143106.html</link>
-      <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/xwbb/2026/10/20095919143106.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>江苏省自然资源厅</description>
-    </item>
-    <item>
-      <title>常州市推行乡村建设风貌提升指引塑造和美乡…</title>
+      <title>常州市推行乡村建设风貌提升指引塑造和美乡村…</title>
       <link>http://zrzy.jiangsu.gov.cn/xwzx/xxjl/2026/10/20100015708286.html</link>
       <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/xxjl/2026/10/20100015708286.html</guid>
       <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
       <description>江苏省自然资源厅</description>
     </item>
     <item>
-      <title>全省耕地保护工作会议在济南召开</title>
-      <link>http://dnr.shandong.gov.cn/xwdt_324/xtyw_29240/202610/t20261020_5015230.html</link>
-      <guid isPermaLink="true">http://dnr.shandong.gov.cn/xwdt_324/xtyw_29240/202610/t20261020_5015230.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>山东省自然资源厅</description>
-    </item>
-    <item>
-      <title>全省林长制暨林草湿地资源监督管理工作会议...</title>
-      <link>http://dnr.shandong.gov.cn/xwdt_324/xtyw_29240/202610/t20261020_5015323.html</link>
-      <guid isPermaLink="true">http://dnr.shandong.gov.cn/xwdt_324/xtyw_29240/202610/t20261020_5015323.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>山东省自然资源厅</description>
-    </item>
-    <item>
-      <title>关于郑州星睿水利科技有限公司测绘资质延续申请...</title>
-      <link>http://dnr.henan.gov.cn/2026/10-20/3438840.html</link>
-      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-20/3438840.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>河南省自然资源厅</description>
-    </item>
-    <item>
-      <title>关于河南省建筑科学研究院有限公司申请测绘资质...</title>
-      <link>http://dnr.henan.gov.cn/2026/10-20/3438817.html</link>
-      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-20/3438817.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>河南省自然资源厅</description>
-    </item>
-    <item>
-      <title>河南省自然资源厅关于公布自然资源管理规范性文...</title>
-      <link>http://dnr.henan.gov.cn/2026/10-20/3438715.html</link>
-      <guid isPermaLink="true">http://dnr.henan.gov.cn/2026/10-20/3438715.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>河南省自然资源厅</description>
-    </item>
-    <item>
-      <title>让数据多跑路 群众少跑腿——潜江规划许可电子证照改革按下“快捷键”</title>
-      <link>http://zrzyt.hubei.gov.cn/bmdt/sxdt/202610/t20261020_6036578.shtml</link>
-      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/bmdt/sxdt/202610/t20261020_6036578.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>湖北省自然资源厅</description>
-    </item>
-    <item>
-      <title>一场要素保障的硬仗——湖北襄阳局支持重大交通项目建设小记</title>
-      <link>http://zrzyt.hubei.gov.cn/bmdt/sxdt/202610/t20261020_6036577.shtml</link>
-      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/bmdt/sxdt/202610/t20261020_6036577.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>湖北省自然资源厅</description>
-    </item>
-    <item>
-      <title>省自然资源厅关于印发《湖北省低效用地认定标准（试行）》的通知</title>
-      <link>http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261020_6036520.shtml</link>
-      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202610/t20261020_6036520.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>湖北省自然资源厅</description>
-    </item>
-    <item>
-      <title>市规划自然资源局推荐作品获第八届全国科学实验展演汇演一等奖</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwxx_186/bmdt/202610/t20261020_16262844.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwxx_186/bmdt/202610/t20261020_16262844.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
-    </item>
-    <item>
-      <title>市规划自然资源局专题调度地质灾害防范和废弃矿山矿洞排查整...</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwxx_186/bmdt/202610/t20261020_16260588.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwxx_186/bmdt/202610/t20261020_16260588.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
-    </item>
-    <item>
-      <title>集中整治看成效丨攻坚办证难题 办好民生实事——大渡口区钓鱼...</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwxx_186/bmdt/202610/t20261020_16259937.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwxx_186/bmdt/202610/t20261020_16259937.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
-    </item>
-    <item>
-      <title>重庆市规划和自然资源局关于注销重庆政星红测绘有限公司测绘...</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwxx_186/tzgg/202610/t20261020_16262418.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwxx_186/tzgg/202610/t20261020_16262418.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
-    </item>
-    <item>
-      <title>重庆市规划和自然资源局关于注销重庆秀城城市运营服务集团有...</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwxx_186/tzgg/202610/t20261020_16262414.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwxx_186/tzgg/202610/t20261020_16262414.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
-    </item>
-    <item>
-      <title>重庆市中心城区综合交通体系规划(2026—2035年) 生态环境影响...</title>
-      <link>https://ghzrzyj.cq.gov.cn/zwxx_186/tzgg/202610/t20261020_16262385.html</link>
-      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwxx_186/tzgg/202610/t20261020_16262385.html</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>重庆市规划和自然资源局</description>
-    </item>
-    <item>
-      <title>· 省修复防治院派出专家指导阿坝州地灾防治“十五五”规划编制工作</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/20/9facdbb626d0427083217fa4fe7cb4e3.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/20/9facdbb626d0427083217fa4fe7cb4e3.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>· 厅信息中心组织召开移动端应用程序整合技术研讨会</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/20/31cae4741aa0419f8cd6bcf37f9964f7.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scywbb/2026/10/20/31cae4741aa0419f8cd6bcf37f9964f7.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>· 广安市局开展养老机构帮扶主题活动</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/c5c20b6cc0b2412f93d9bd993168b67c.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/c5c20b6cc0b2412f93d9bd993168b67c.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>· 阿坝州局开展退休干部重阳节走访慰问活动</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/f3ea4e7b8f06477a981011ec4d8b105b.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/f3ea4e7b8f06477a981011ec4d8b105b.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>· 什邡市局唤醒农村闲置存量建设用地 让“沉睡土地”变振兴资本</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/7757d820e6a542b08a27de97478e8377.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/7757d820e6a542b08a27de97478e8377.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>· 绵阳市安州区扎实推进安置房建设分配保障群众安居需求</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/a9d9da6ab32d4620893965922a41403b.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/a9d9da6ab32d4620893965922a41403b.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>· 遂宁市推行工业投资类项目“用地清单制”改革全链条服务助力项目高效落地</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/dff7aa89b4db4b0b9e4c4dbf2fec7d62.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scszdt/2026/10/20/dff7aa89b4db4b0b9e4c4dbf2fec7d62.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>关于四川平武中金矿业有限公司银厂金矿采矿权出让收益评估项目评估结果的公示</title>
-      <link>https://dnr.sc.gov.cn/scdnr/sckyqcr/2026/10/20/784e3843f24f42bdae867d90633ff12c.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/sckyqcr/2026/10/20/784e3843f24f42bdae867d90633ff12c.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>厅信息中心关于公开选择会议支撑服务项目采购代理机构结果的公告</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/20/c79d1049976d4150bce8bc54bf1bbee6.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/20/c79d1049976d4150bce8bc54bf1bbee6.shtml</guid>
-      <pubDate>Tue 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
-    </item>
-    <item>
-      <title>《内蒙古乌拉特前旗正扬矿业有限责任公司铁矿深部及夹缝区域...</title>
-      <link>https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261019_2966408.html</link>
-      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/zwgk/gsgg/qtgsgg/202610/t20261019_2966408.html</guid>
-      <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
-      <description>内蒙古自治区自然资源厅</description>
-    </item>
-    <item>
-      <title>优保快保，现场过招！全省用地报批及用地保障…</title>
-      <link>http://zrzy.jiangsu.gov.cn/xwzx/xwbb/2026/10/19094510462465.html</link>
-      <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/xwbb/2026/10/19094510462465.html</guid>
+      <title>自然资源部党组传达学习贯彻全国卫生与健康大…</title>
+      <link>http://zrzy.jiangsu.gov.cn/xwzx/sbyq/2026/10/19120201082265.html</link>
+      <guid isPermaLink="true">http://zrzy.jiangsu.gov.cn/xwzx/sbyq/2026/10/19120201082265.html</guid>
       <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
       <description>江苏省自然资源厅</description>
-    </item>
-    <item>
-      <title>省厅2027年重点项目预算绩效评价项目遴选公告</title>
-      <link>https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/19/efbb795d4a0846bfb882569f6065e38b.shtml</link>
-      <guid isPermaLink="true">https://dnr.sc.gov.cn/scdnr/scgsgg/2026/10/19/efbb795d4a0846bfb882569f6065e38b.shtml</guid>
-      <pubDate>Mon 19 Oct 2026 00:00:00 +0800</pubDate>
-      <description>四川省自然资源厅</description>
     </item>
   </channel>
 </rss>
