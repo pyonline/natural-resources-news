@@ -6,36 +6,78 @@
     <atom:link href="https://pyonline.github.io/natural-resources-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>自然资源部及各省自然资源主管部门门户网站公开新闻聚合（每日自动更新，已去重）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun 22 Nov 2026 00:00:00 +0800</lastBuildDate>
-    <pubDate>Sun 22 Nov 2026 00:00:00 +0800</pubDate>
+    <lastBuildDate>Mon 23 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
     <generator>natural-resources-news skill</generator>
     <item>
-      <title>中国共产党自然资源部直属机关第二次党员...</title>
-      <link>https://www.mnr.gov.cn/dt/ywbb/202611/t20261121_2943020.html</link>
-      <guid isPermaLink="true">https://www.mnr.gov.cn/dt/ywbb/202611/t20261121_2943020.html</guid>
-      <pubDate>Sat 21 Nov 2026 00:00:00 +0800</pubDate>
-      <description>自然资源部</description>
+      <title>王伟中包钢会见国家市场监督管理总局党组书...</title>
+      <link>https://zrzy.nmg.gov.cn/xwdt/zzqyw/202611/t20261123_2980898.html</link>
+      <guid isPermaLink="true">https://zrzy.nmg.gov.cn/xwdt/zzqyw/202611/t20261123_2980898.html</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>内蒙古自治区自然资源厅</description>
     </item>
     <item>
-      <title>生态环境部修订文件优化建设项目环评分类管理</title>
-      <link>https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202611/t20261121_4954946.html</link>
-      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202611/t20261121_4954946.html</guid>
-      <pubDate>Sat 21 Nov 2026 00:00:00 +0800</pubDate>
+      <title>湖北国源空间信息技术有限公司测绘资质证书延续申请主要信息公开表</title>
+      <link>http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202611/t20261123_6132128.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202611/t20261123_6132128.shtml</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅</description>
+    </item>
+    <item>
+      <title>武汉科岛地理信息工程有限公司测绘资质证书延续申请主要信息公开表</title>
+      <link>http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202611/t20261123_6132087.shtml</link>
+      <guid isPermaLink="true">http://zrzyt.hubei.gov.cn/fbjd/zhengce/qtzdgkwj/202611/t20261123_6132087.shtml</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>湖北省自然资源厅</description>
+    </item>
+    <item>
+      <title>南岸区不动产权证书/登记证明遗失（灭失）声明编号：20261123103CSQYS001</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459467.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459467.html</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>两江新区不动产权证书/登记证明遗失（灭失）声明20261123047WLDYS001号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459458.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459458.html</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>巴南区不动产权证书/登记证明遗失（灭失）声明 20261123110LZWYS001号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459453.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459453.html</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>两江新区不动产权证书/登记证明作废公告20261123047WLDZF001号</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459450.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459450.html</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>南岸区不动产权证书/登记证明作废公告编号：20261123103CSQZF002</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459449.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459449.html</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>九龙坡区不动产权证书/证明遗失（灭失）声明 编号：20261123105JLPYS003</title>
+      <link>https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459445.html</link>
+      <guid isPermaLink="true">https://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/gggs/bdcdjgg/202611/t20261123_16459445.html</guid>
+      <pubDate>Mon 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>重庆市规划和自然资源局</description>
+    </item>
+    <item>
+      <title>为新时期大国协调互动构建新范式——国际社会高度评价中俄美元首历史性会晤</title>
+      <link>https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202611/t20261122_4955058.html</link>
+      <guid isPermaLink="true">https://ghzrzyw.beijing.gov.cn/shouyexinxi/zwyw/202611/t20261122_4955058.html</guid>
+      <pubDate>Sun 22 Nov 2026 00:00:00 +0800</pubDate>
       <description>北京市规划和自然资源委员会</description>
-    </item>
-    <item>
-      <title>习近平主持中俄美元首会晤</title>
-      <link>https://dnr.yn.gov.cn/tt/202611/t20261120_4385896.html</link>
-      <guid isPermaLink="true">https://dnr.yn.gov.cn/tt/202611/t20261120_4385896.html</guid>
-      <pubDate>Fri 20 Nov 2026 00:00:00 +0800</pubDate>
-      <description>云南省自然资源厅</description>
-    </item>
-    <item>
-      <title>习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话</title>
-      <link>https://dnr.yn.gov.cn/tt/202611/t20261120_4385895.html</link>
-      <guid isPermaLink="true">https://dnr.yn.gov.cn/tt/202611/t20261120_4385895.html</guid>
-      <pubDate>Fri 20 Nov 2026 00:00:00 +0800</pubDate>
-      <description>云南省自然资源厅</description>
     </item>
   </channel>
 </rss>
